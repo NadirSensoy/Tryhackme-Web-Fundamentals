@@ -1,9 +1,15 @@
-DNS (Domain Name System)
+      DNS (Domain Name System)
 
 DNS bize internette diğer cihazlarla iletişimin kolay yolunu sağlar. Karışık ip adreslerini hatırlama gereksinimi duymadan iletişime geçmemizi sağlar.
+
 Her eve posta atmak için adresi olduğu gibi, Her bilgisayarında iletişime geçmek için kendine ait bir IP adresi vardır.
+
 IP adres şu formattadır. (104.26.10.229)
+
 0-255 arasında değişiklik gösteren 4 sayıdan oluşur.
+
 Bir web sitesini ziyaret etmek istediğinizde bu karışık numaraları hatırlamak zorunda değiliz.
+
 İşte burada DNS devreye giriyor.
+
 (104.26.10.229) sayısını hatırlamak yerine (tryhackme.com) hatırlayabiliriz.
