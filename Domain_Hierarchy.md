@@ -1,4 +1,4 @@
-# What-is-the-DNS
+# Ayrıntılarıyla DNS
 ## Domain Hiyerarşisi
 
 ![domain_levels](https://user-images.githubusercontent.com/86947080/184388236-80bbe963-2ab0-4475-9559-32cfa4407c65.png)
