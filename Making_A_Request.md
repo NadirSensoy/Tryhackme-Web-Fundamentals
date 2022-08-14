@@ -1,4 +1,4 @@
-# What-is-the-DNS
+# Ayrıntılarıyla DNS
 ## Making A Request (Türkçe anlatım)
 1. Bir alan adı isteği attığınızda bilgisayarınız ilk olarak adresi yakın zamanda arayıp aramadığınızı görmek için yerel önbelleğini kontrol eder; değilse, Recursive (Özyinelemeli) DNS sunucunuza bir istek yapılacaktır.
 
