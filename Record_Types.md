@@ -1,4 +1,4 @@
-# What-is-the-DNS
+# Ayrıntılarıyla DNS
 ## DNS Record Types (Türkçe anlatım)
 - DNS sadece web siteleri için değildir. Birden çok DNS kaydetme çeşidi vardır. Şimdi kaşılaşabileceiğiniz en yaygın türlerin üzerinden geçicez.
 
