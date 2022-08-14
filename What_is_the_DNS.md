@@ -1,4 +1,4 @@
-# What-is-the-DNS
+# Ayrıntılarıyla DNS
 ## DNS nedir ? (Türkçe anlatım)
 
 1. DNS bize internette diğer cihazlarla iletişimin kolay yolunu sağlar. Karışık ip adreslerini hatırlama gereksinimi duymadan iletişime geçmemizi sağlar.
