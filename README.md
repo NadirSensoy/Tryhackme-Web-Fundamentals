@@ -8,4 +8,5 @@
 ### Ayrıntılarıyla HTTP
 - [HTTPS Nedir](What_is_the_HTTP(S).md)
 - [İstekler ve Cevaplar](Request_and_Responses.md)
-- [HTTP Metotları]
+- [HTTP Metotları](HTTP_Methods.md)
+- [HTTP Durum Kodları](
