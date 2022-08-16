@@ -12,3 +12,9 @@
 - [HTTP Durum Kodları](HTTP_Status_Codes.md)
 - [Başlıklar](Headers.md)
 - [Çerezler](Cookies.md)
+### Web Siteleri Nasıl Çalışır
+- [Web Siteleri Nasıl Çalışır](How_Websites_Work.md)
+- [HTML](HTML.md)
+- [JavaScript](JavaScript.md)
+- [Hassas Veri Açığa Çıkarma](Sensitive_Data_Exposure.md)
+- [HTML Injection](HTML_Injection)
