@@ -1,0 +1,8 @@
+# Detaylarıyla HTTP
+## Cookies (Çerezler)
+- Çerezleri muhtemelen daha önce duymuşsunuzdur, bunlar sadece bilgisayarınızda depolanan küçük bir veri parçasıdır. Bir web sunucusundan bir "Çerez Ayarla" başlığı aldığınızda çerezler kaydedilir. Ardından, yaptığınız her istekte, çerez verilerini web sunucusuna geri göndereceksiniz. HTTP durum bilgisiz olduğundan (önceki isteklerinizi takip etmez), web sunucusuna kim olduğunuzu, web sitesine ilişkin bazı kişisel ayarları veya web sitesine daha önce gidip gitmediğinizi hatırlatmak için çerezler kullanılabilir. Buna örnek bir HTTP isteği olarak bir göz atalım:
+- ![cookie_flow](https://user-images.githubusercontent.com/86947080/184868734-1856fed5-f896-4139-94fc-0f5eae05a2a6.png)
+- Çerezler birçok amaç için kullanılabilir, ancak en yaygın olarak web sitesi kimlik doğrulaması için kullanılır. Tanımlama bilgisi değeri genellikle parolayı görebileceğiniz bir düz metin dizesi değil, bir belirteç (insanca kolayca tahmin edilemeyen benzersiz gizli kod) olacaktır.
+### Kendi Çerezlerinizi Görüntüleme
+- Tarayıcınızdaki geliştirici araçlarını kullanarak tarayıcınızın bir web sitesine hangi çerezleri gönderdiğini kolayca görüntüleyebilirsiniz. Tarayıcınızda geliştirici araçlarına nasıl ulaşacağınızdan emin değilseniz, nasıl yapılır kılavuzu için bu görevin üst kısmındaki "Siteyi Görüntüle" düğmesini tıklayın.
+- Geliştirici araçlarını açtıktan sonra "Ağ" sekmesine tıklayın. Bu sekme, tarayıcınızın talep ettiği tüm kaynakların bir listesini size gösterecektir. Talep ve yanıtın ayrıntılı dökümünü almak için her birine tıklayabilirsiniz. Tarayıcınız bir çerez gönderdiyse, bunları isteğin "Çerezler" sekmesinde göreceksiniz.
