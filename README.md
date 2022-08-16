@@ -9,4 +9,5 @@
 - [HTTPS Nedir](What_is_the_HTTP(S).md)
 - [İstekler ve Cevaplar](Request_and_Responses.md)
 - [HTTP Metotları](HTTP_Methods.md)
-- [HTTP Durum Kodları](
+- [HTTP Durum Kodları](HTTP_Status_Codes.md)
+- [Başlıklar](cooming soon)
