@@ -17,11 +17,11 @@
 - [HTML](HTML.md)
 - [JavaScript](JavaScript.md)
 - [Hassas Veri Açığa Çıkarma](Sensitive_Data_Exposure.md)
-- [HTML Injection](HTML_Injection)
+- [HTML Injection](HTML_Injection.md)
 ### Hepsini birleştir
-- [Hepsini Birleştir]
-- [Diğer Bileşenler]
-- [Web Sunucuları Nasıl Çalışır]
+- [Hepsini Birleştir](Putting_It_All_Together.md)
+- [Diğer Bileşenler](Other_Components.md)
+- [Web Sunucuları Nasıl Çalışır](How_Web_Servers_Work.md)
 
 ## Web Hacking'e Giriş
 ***cooming soon***
