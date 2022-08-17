@@ -18,3 +18,10 @@
 - [JavaScript](JavaScript.md)
 - [Hassas Veri Açığa Çıkarma](Sensitive_Data_Exposure.md)
 - [HTML Injection](HTML_Injection)
+### Hepsini birleştir
+- [Hepsini Birleştir]
+- [Diğer Bileşenler]
+- [Web Sunucuları Nasıl Çalışır]
+
+## Web Hacking'e Giriş
+***cooming soon***
