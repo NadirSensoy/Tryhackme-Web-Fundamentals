@@ -67,7 +67,7 @@ Bir web sunucusunda yeni güvenlik açıklarına yol açabilecek gizli veya öze
 - [Otomatik Keşif](Automated_Discovery.md)
 ### Alt Domain Numaralandırma
 Bir hedefin saldırı yüzeyini genişletmek için alt alanları keşfetmenin çeşitli yollarını öğrenin.
-- [Bilgilendirme](Brief.md)
+- [Bilgilendirme](Subdomain_Enumeration_Brief.md)
 - [OSINT - SSL/TLC Sertifikaları](OSINT_SSL_TLS_Certificates.md)
 - [DNS Bruteforce](DNS_Bruteforce.md)
 - [OSINT - Sublist3r](OSINT_Sublist3r.md)
