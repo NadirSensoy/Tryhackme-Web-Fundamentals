@@ -1,0 +1,3 @@
+# Alt Alan Adı Numaralandırma
+## DNS Bruteforce
+- Bruteforce DNS (Etki Alanı Adı Sistemi) numaralandırma, önceden tanımlanmış bir yaygın olarak kullanılan alt etki alanları listesinden onlarca, yüzlerce, binlerce ve hatta milyonlarca farklı olası alt etki alanını deneme yöntemidir. Bu yöntem çok sayıda istek gerektirdiğinden, süreci daha hızlı hale getirmek için araçlarla otomatik hale getiriyoruz. Bu durumda, bunu gerçekleştirmek için dnsrecon adlı bir araç kullanıyoruz. Statik siteyi açmak için "Siteyi Görüntüle" düğmesine tıklayın, simülasyonu başlatmak için "DNSrecon İsteğini Çalıştır" düğmesine basın ve ardından aşağıdaki soruyu yanıtlayın.
