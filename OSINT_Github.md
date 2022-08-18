@@ -1,0 +1,4 @@
+# İçerik Keşfi 
+## OSINT - Github
+### Github
+- GitHub'ı anlamak için önce Git'i anlamanız gerekir. Git, bir projedeki dosyalarda yapılan değişiklikleri izleyen bir sürüm kontrol sistemidir. Bir ekipte çalışmak daha kolaydır çünkü her ekip üyesinin neyi düzenlediğini ve dosyalarda ne gibi değişiklikler yaptığını görebilirsiniz. Kullanıcılar değişikliklerini yapmayı bitirdiğinde, bunları bir mesajla taahhüt ederler ve ardından diğer kullanıcıların bu değişiklikleri yerel makinelerine çekmesi için merkezi bir konuma (depoya) geri gönderirler. GitHub, Git'in internette barındırılan bir sürümüdür. Depolar genel veya özel olarak ayarlanabilir ve çeşitli erişim kontrollerine sahip olabilir. GitHub'ın arama özelliğini kullanarak şirket adlarını veya web sitesi adlarını arayabilir ve hedefinize ait depoları bulmaya çalışabilirsiniz. Keşfedildikten sonra, kaynak koduna, şifrelere veya henüz bulamadığınız diğer içeriğe erişiminiz olabilir.
