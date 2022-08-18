@@ -1,0 +1,4 @@
+# Alt Alan Adı Numaralandırma
+## OSINT - SSL/TLS Sertifikaları
+### SSL/TLS Sertifikaları
+- Bir alan adı için bir CA (Sertifika Yetkilisi) tarafından bir SSL/TLS (Güvenli Yuva Katmanı/Aktarım Katmanı Güvenliği) sertifikası oluşturulduğunda, CA'lar "Sertifika Şeffaflığı (CT) günlükleri" olarak adlandırılan şeye katılır. Bunlar, bir alan adı için oluşturulan her SSL/TLS sertifikasının herkese açık olarak erişilebilen günlükleridir. Sertifika Şeffaflığı günlüklerinin amacı, kötü niyetli ve yanlışlıkla oluşturulmuş sertifikaların kullanılmasını engellemektir. Bir etki alanına ait alt etki alanlarını keşfetmek için bu hizmeti kendi avantajımıza kullanabiliriz, https://crt.sh ve https://ui.ctsearch.entrust.com/ui/ctsearchui gibi siteler, geçerliliği gösteren aranabilir bir sertifika veritabanı sunar. ve tarihi sonuçlar.
