@@ -22,3 +22,5 @@
 - TXT kayıtların birçok kullanımı vardır, ama en yaygın olanlar domaine e-posta gönderme yetkisine sahip sunucuları listelemek olabilir. Bu istenmeyen ve sahte e-postalara karşı mücadelede yardımcı olabiliyor.
 
 - Aynı zamanda üçüncü taraf hizmetlerine kayıt yaparken domain adı sahibini doğrulamakda kullanılabilirler.
+
+[---> Bir sonraki bölüme geçmek için tıklayınız --->](Making_A_Request.md)
