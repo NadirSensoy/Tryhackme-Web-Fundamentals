@@ -73,7 +73,9 @@ Bir hedefin saldırı yüzeyini genişletmek için alt alanları keşfetmenin ç
 - [OSINT - Sublist3r](OSINT_Sublist3r.md)
 - [Sanal Hostlar](Virtual_Hosts.md)
 ### Kimlik Doğrulama Atlatma
-***cooming soon***
+- [Bilgilendirme](Authentication_Bypass_Brief.md)
+- [Kullanıcı Adı Saydırma](Username_Enumeration.md)
+- [Brute Force](Brute_Force.md)
 ### IDOR
 ***cooming soon***
 ### File Inclusion
