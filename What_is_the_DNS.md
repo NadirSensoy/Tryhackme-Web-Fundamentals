@@ -19,5 +19,6 @@
 
 ![ip2domaindrawing](https://user-images.githubusercontent.com/86947080/184386701-304915c7-0cab-4fde-bdf7-ce4446e585c1.png)
 
-from tryhackme.com
-[Bir önceki sayfaya gitmek için tıklayınız ...](README.md)
+[---> Bir sonraki bölüme geçmek için tıklayınız --->](Domain_Hierarchy.md)
+
+[<--- Geriye dönmek için tıklayınız <---](README.md)
