@@ -72,3 +72,17 @@ Bir hedefin saldırı yüzeyini genişletmek için alt alanları keşfetmenin ç
 - [DNS Bruteforce](DNS_Bruteforce.md)
 - [OSINT - Sublist3r](OSINT_Sublist3r.md)
 - [Sanal Hostlar](Virtual_Hosts.md)
+### Kimlik Doğrulama Atlatma
+***cooming soon***
+### IDOR
+***cooming soon***
+### File Inclusion
+***cooming soon***
+### SSRF
+***cooming soon***
+### Cross-site Scripting
+***cooming soon***
+### Command Injection
+***cooming soon***
+### SQL Injection
+***cooming soon***
