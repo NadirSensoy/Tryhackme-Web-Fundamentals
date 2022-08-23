@@ -33,3 +33,5 @@
 - Ama uzunluk 253 karaktere kadar sınırlı.
 
 - Domain adı için sınırsız sayıda subdomain oluşturabilirsiniz.
+
+[---> Bir sonraki bölüme geçmek için tıklayınız --->](Record_Types.md)
