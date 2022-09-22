@@ -87,4 +87,5 @@ Bir hedefin saldırı yüzeyini genişletmek için alt alanları keşfetmenin ç
 ### Command Injection
 ***cooming soon***
 ### SQL Injection
-***cooming soon***
+- [Bilgilendirme](SQLi_Brief.md)
+- [Veritabanı Nedir?](What_is_the_database.md)
