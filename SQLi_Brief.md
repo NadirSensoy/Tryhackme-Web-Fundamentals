@@ -1,0 +1,4 @@
+# SQL Injection
+## Bilgilendirme
+- Çoğunlukla SQLi olarak adlandırılan SQL (Yapılandırılmış Sorgu Dili) Enjeksiyonu, kötü amaçlı sorguların yürütülmesine neden olan bir web uygulaması veritabanı sunucusuna yapılan bir saldırıdır. Bir web uygulaması, uygun şekilde doğrulanmamış bir kullanıcıdan gelen girdiyi kullanarak bir veritabanıyla iletişim kurduğunda, bir saldırganın özel ve müşteri verilerini çalma, silme veya değiştirme ve ayrıca web uygulamaları kimlik doğrulama yöntemlerine özel olarak saldırma potansiyeli vardır. Bu nedenle SQLi en eski web uygulaması güvenlik açıklarından biri olmasının yanı sıra en zarar verici olabilir.
+- Bu odada, veritabanlarının ne olduğunu, bazı temel SQL komutlarıyla birlikte SQL'in ne olduğunu, SQL güvenlik açıklarının nasıl tespit edileceğini, SQLi güvenlik açıklarından nasıl yararlanılacağını ve bir geliştirici olarak SQL Injection'a karşı kendinizi nasıl koruyabileceğinizi öğreneceksiniz.
